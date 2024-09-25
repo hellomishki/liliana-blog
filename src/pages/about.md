@@ -3,34 +3,18 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hey there! I’m Liliana, a software engineer, lifelong gamer, and tech enthusiast with roots in Portugal and a heart that’s explored much of Australia. My family migrated to Australia in 1992, and since then, I’ve lived everywhere from the coast to coast, but these days I like to call Melbourne home.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+I’ve been tinkering with code since the days of Geocities—when building a website meant trial, error, and a lot of sparkly gifs. Being online in the ’90s and 2000s was a wild ride, and I’ve been hooked on the possibilities of the internet ever since. Back then, I spent just as much time customising my website as I did diving into online communities and forums, where the web felt a little more wild and free.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+When I wasn’t figuring out how to make text blink or hosting my favorite music on my site, I was gaming—starting with the Sega Master System. From those pixelated classics to modern immersive worlds, gaming has always been a part of who I am. It’s where my love for problem-solving, creativity, and all things tech really began.
+
+After years of self-teaching and exploring the digital world, I officially became a software engineer in 2016. Since then, I’ve been creating clean, efficient code and building web experiences that I hope reflect the same excitement and curiosity that first drew me to this field. From custom-built websites to open-source contributions, my goal is to turn ideas into reality while keeping that nostalgic spark from my early days of coding alive.
+
+When I’m not writing code, you can find me playing the latest RPG, immersed in VR,  tweaking my Linux setup, or diving into the next tech challenge. Welcome to my digital space—I hope you enjoy exploring it as much as I’ve enjoyed building it!
 
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/dev.png" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
